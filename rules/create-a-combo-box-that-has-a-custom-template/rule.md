@@ -15,7 +15,7 @@ When designing your form, you should try to help your user whenever it's possibl
 <!--endintro-->
 
 ::: good
-![Figure: Good example – Combo-box with custom template](multiplecolumns.png)
+![Figure: Good example – Combo-box with custom template](multiplecolumns_1711678032245.png)
 :::
 
 Feel free to use our sample:
